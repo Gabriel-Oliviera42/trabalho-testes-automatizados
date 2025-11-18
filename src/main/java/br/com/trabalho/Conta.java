@@ -1,3 +1,4 @@
+package br.com.trabalho;
 public class Conta {
 
     private double saldo;
